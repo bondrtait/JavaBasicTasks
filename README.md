@@ -1,2 +1,2 @@
 # JavaBasicTasks
-This is the project learning project
+This is the learning project
